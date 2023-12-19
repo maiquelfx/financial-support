@@ -15,5 +15,10 @@ This function prompts the user to enter the desired period (in years or months) 
 The function receives the initial capital, the investment period and the monthly interest rate. It calculates profitability over time using a simple monthly compounding approach.
 
 ### for more information
-maiquelfx@gmail.com
-(21) 97695-0954
+> [!NOTE]
+> ## **[MAIQUEL GOMES](https://github.com/maiquelfx)**</br>
+> Master's student in the Department of Computing </br>
+> Universidade Federal Fluminense (UFF) </br>
+> Niterói 24210-346, Brasil </br>
+> maiquelgomes@id.uff.br </br>
+> (21) 97695-0954
